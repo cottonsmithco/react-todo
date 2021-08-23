@@ -1,0 +1,18 @@
+.todoItem {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.AddTodo {
+    color: blue;
+}
+
+#todoItem {
+    
+    margin-top: 2rem;
+    margin-left: 50%;
+}

@@ -1,0 +1,17 @@
+#addTodoInput{
+    position: relative;
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 39%;
+    width: 20rem;
+    height: 3rem;
+    background-color: whitesmoke;
+}
+
+#button{
+    position: relative;
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 48%;
+    background-color: whitesmoke;
+}
